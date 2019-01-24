@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Class-Path: jackson-core-asl-1.9.13.jar spring-context-support-4.0.2.R
+ ELEASE.jar commons-logging-1.1.3.jar javax.mail-1.5.0.jar javaee-api-
+ 7.0.jar ehcache-3.1.3.jar spring-expression-4.0.2.RELEASE.jar commons
+ -pool-1.3.jar spring-context-4.0.2.RELEASE.jar mybatis-ehcache-1.0.0.
+ jar jconsole.jar jackson-mapper-asl-1.9.13.jar spring-tx-4.0.2.RELEAS
+ E.jar commons-dbcp-1.2.2.jar spring-aop-4.0.2.RELEASE.jar spring-oxm-
+ 4.0.2.RELEASE.jar mybatis-3.2.6.jar spring-webmvc-4.0.2.RELEASE.jar j
+ stl-1.2.jar spring-jdbc-4.0.2.RELEASE.jar mybatis-spring-1.2.2.jar sl
+ f4j-api-1.7.7.jar aopalliance-1.0.jar ehcache-core-2.0.0.jar spring-w
+ eb-4.0.2.RELEASE.jar spring-core-4.0.2.RELEASE.jar fastjson-1.2.17.ja
+ r activation-1.1.jar druid-1.0.26.jar tools.jar spring-beans-4.0.2.RE
+ LEASE.jar mysql-connector-java-5.1.30.jar
+
