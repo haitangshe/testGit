@@ -1,6 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-war" name="testCache">
-    <output-path>$PROJECT_DIR$/out/artifacts/testCache</output-path>
-    <root id="root" />
-  </artifact>
-</component>
